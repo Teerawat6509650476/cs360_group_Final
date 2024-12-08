@@ -61,7 +61,7 @@ const Register = ({ Register }) => {
   }
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-100">
+    <div className="flex justify-center items-center min-h-screen bg-purple-100">
       <div className="w-full max-w-sm bg-white shadow-md rounded-lg p-8">
       <Link href="/">
           <a className="absolute inline-flex items-center top-4 left-4 focus:outline-none">
